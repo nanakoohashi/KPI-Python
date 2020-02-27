@@ -5,3 +5,4 @@
 - Excel
 ### Packages
 - pandas
+- numpy
