@@ -8,3 +8,5 @@ This repository contains an analysis of shopper data with the intention of ranki
 ### Packages
 - pandas
 - numpy
+
+## Findings
